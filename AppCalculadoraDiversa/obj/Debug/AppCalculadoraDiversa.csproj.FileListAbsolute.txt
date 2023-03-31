@@ -1,0 +1,15 @@
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\bin\Debug\AppCalculadoraDiversa.exe.config
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\bin\Debug\AppCalculadoraDiversa.exe
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\bin\Debug\AppCalculadoraDiversa.pdb
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.csproj.AssemblyReference.cache
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Form1.resources
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Properties.Resources.resources
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.csproj.GenerateResource.cache
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.csproj.CoreCompileInputs.cache
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.exe
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.pdb
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Formularios.FormCalculadoraFinanceira.resources
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Formularios.FormCalcularDesconto.resources
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Formularios.FormCalcularRaizes.resources
+C:\Users\aaman\Documents\ADS\2º período\Linguagem de Programação Visual I\AppCalculadoraDiversa\obj\Debug\AppCalculadoraDiversa.Formularios.FormSimularSalario.resources
